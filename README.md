@@ -1,1 +1,3 @@
-echo # SE-seminarid
+# SE-seminarid
+
+Siin esitan ma enda SE-seminarite töid
